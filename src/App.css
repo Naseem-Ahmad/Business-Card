@@ -5,10 +5,14 @@ footer{
   
 }
 
+body{
+  margin:0;
+}
+
 .profile{
    border-radius: 50%;
-   width: 210px;
-   height: 217px;
+   width: 120px;
+   height: 120px;
 }
 
 .container {
