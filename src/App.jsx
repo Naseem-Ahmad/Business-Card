@@ -1,3 +1,4 @@
+import newlink from './assets/newlink.png'
 
 export default function App() {
   return (
@@ -8,8 +9,8 @@ export default function App() {
     <h2><strong>Naseem Ahmad</strong></h2>
     <p className="desgination">Full Stack Developer</p>
     <a href="https://www.creativetract.com/">CreativeTract.com</a><br/><br/>
-    <a href="mailto:naseemahmad6504@gmail.com"><img src="/assets/NewMail.png" className="mail" width="140px" alt="#" /></a>
-    <a href="https://www.linkedin.com/in/naseem-ahmad-978a21190"><img src="/src/assets/newlink.png" className="linkedin" width="140px" alt="#" />
+    <a href="mailto:naseemahmad6504@gmail.com"><img src="/src/assets/NewMail.png" className="mail" width="140px" alt="#" /></a>
+    <a href="https://www.linkedin.com/in/naseem-ahmad-978a21190"><img src={newlink} className="linkedin" width="140px" alt="#" />
 </a>
     
     <h1 align="Left">About:</h1>
