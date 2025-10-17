@@ -1,0 +1,67 @@
+
+footer{
+  text-align: center;
+  background-color: #161619;
+  
+}
+
+.profile{
+   border-radius: 50%;
+   width: 210px;
+   height: 217px;
+}
+
+.container {
+  background-color: #23252C;
+  display: flex;            /* Use Flexbox */
+  justify-content: center;  /* Center horizontally */
+  align-items: center;      /* Center vertically */
+  height: 100vh;         
+}
+
+.card{
+  text-align: center;
+  background-color: #1A1B21;
+  color: white;
+  padding: 30px 40px;       /* Space inside card */
+  border-radius: 15px;      /* Rounded corners */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* Soft shadow */
+  text-align: center;       /* Center text inside card */
+  max-width: 400px;  
+}
+
+.linkedin{
+padding: 5px;
+}
+
+.mail{
+padding: 5px;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.desgination{
+  color: #61DAFB;
+}
