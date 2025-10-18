@@ -19,8 +19,10 @@ export default function App() {
     <p align="justify">Software craftsman 🖥️ | C#, ASP.NET & ReactJS are my tools, coffee is my fuel ☕ | Turning complex problems into simple solutions, automating the boring stuff, and keeping bugs on a short leash 🐍</p>
   <h1 align="Left">Skill:</h1>
   <p align="justify">
-   Code whisperer in C#, Java & JavaScript ⚡ | ASP.NET & ReactJS fan 🤓 | SQL tamer 🐍 | APIs & automation wizard ✨ | Loves clean code, coffee, and making bugs cry 🐞💥 
+   Code whisperer in C#, Java & WebApi ⚡ | ASP.NET & ReactJS fan 🤓 | SQL tamer 🐍 | APIs & automation wizard ✨ | Loves clean code, coffee, and making bugs cry 🐞💥 
   </p>
+  <br />
+   <br />
   <footer>
   © 2025 All Rights Reserved
   </footer>
