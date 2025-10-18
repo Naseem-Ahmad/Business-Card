@@ -7,12 +7,14 @@ footer{
 
 body{
   margin:0;
+  background-color: #23252C;
 }
 
 .profile{
    border-radius: 50%;
    width: 120px;
    height: 120px;
+
 }
 
 .container {
@@ -20,7 +22,9 @@ body{
   display: flex;            /* Use Flexbox */
   justify-content: center;  /* Center horizontally */
   align-items: center;      /* Center vertically */
-  height: 100vh;         
+  /* height: auto;        */
+  margin-top: 50px; 
+  margin-bottom: 50px;
 }
 
 .card{
@@ -31,7 +35,8 @@ body{
   border-radius: 15px;      /* Rounded corners */
   box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* Soft shadow */
   text-align: center;       /* Center text inside card */
-  max-width: 400px;  
+  max-width: 500px;  
+  
 }
 
 .linkedin{
@@ -40,6 +45,39 @@ padding: 5px;
 
 .mail{
 padding: 5px;
+}
+
+.about{
+text-align:left ;
+margin-bottom: 0px;
+
+}
+.skill{
+text-align:left ;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+.product{
+text-align:left ;
+font-size: 2.2 emp;
+margin-bottom: 0px;
+}
+
+.website{
+
+}
+
+.hide-me {
+list-style-type: none; 
+text-align: left;
+padding-left: 0px;        
+margin-left: 0px;
+
+}
+
+ul {
+margin: 0px;
+padding: 0px;
 }
 
 a:link {
