@@ -1,6 +1,5 @@
 import newlink from './assets/newlink.png'
 import NewMail from './assets/NewMail.png'
-import travel from './assets/travel.png'
 import NA from './assets/NA.jpg'
 
 export default function App() {
@@ -13,9 +12,9 @@ export default function App() {
     <p className="desgination">Full Stack Developer</p>
     <a className="website" href="https://www.creativetract.com/">CreativeTract.com</a><br/><br/>
 
-    <a href="mailto:naseemahmad6504@gmail.com"><img src={NewMail} className="mail" width="140px" alt="Mail Logo" /></a>
-    <a href="https://www.linkedin.com/in/naseem-ahmad-978a21190"><img src={newlink} className="linkedin" width="140px" alt="Linkedin logo" /></a>
-    <a href="#"><img src={travel} className="myTravelJournal" width="140px" alt="My travel logo" /></a>
+    <a href="mailto:naseemahmad6504@gmail.com"><img src={NewMail} className="mail" width="140px" alt="#" /></a>
+    <a href="https://www.linkedin.com/in/naseem-ahmad-978a21190"><img src={newlink} className="mail" width="140px" alt="#" />
+</a>
     
   <h2 className= "about">About:</h2>
     <p align="justify">Software craftsman 🖥️ | Turning complex problems into simple solutions, automating the boring stuff, and keeping bugs on a short leash 🐍 Loves clean code, coffee, and making bugs cry 🐞💥 
