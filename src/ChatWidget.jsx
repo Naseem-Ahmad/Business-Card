@@ -42,7 +42,7 @@ const ChatWidget = () => {
 
   return (
     <div className="chat-widget">
-      <div className="chat-header">💬 Chat with my AI Assistant</div>
+      <div className="chat-header">💬 Chat with Chat GPT :</div>
 
       <div className="chat-messages">
         {chat.map((msg, i) => (
