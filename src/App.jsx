@@ -3,7 +3,12 @@ import NewMail from './assets/NewMail.png'
 import NA from './assets/NA.jpg'
 import travel from './assets/Mytravel.png'
 import ProjectInfoHelp from './ProjectInfoHelp.jsx'
+import ChatWidget from './ChatWidget.jsx'
+
 export default function App() {
+
+
+
   return (
 <>
   <div className="container">
@@ -39,9 +44,11 @@ export default function App() {
 
   <footer>
   © 2025 All Rights Reserved
+  <ChatWidget/>
   </footer>
 </div>
 <ProjectInfoHelp />
+
 </div>
   </>
 
