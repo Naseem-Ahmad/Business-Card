@@ -2,6 +2,7 @@ import newlink from './assets/newlink.png'
 import NewMail from './assets/NewMail.png'
 import NA from './assets/NA.jpg'
 import travel from './assets/Mytravel.png'
+import ProjectInfoHelp from './ProjectInfoHelp.jsx'
 export default function App() {
   return (
 <>
@@ -40,6 +41,7 @@ export default function App() {
   © 2025 All Rights Reserved
   </footer>
 </div>
+<ProjectInfoHelp />
 </div>
   </>
 
