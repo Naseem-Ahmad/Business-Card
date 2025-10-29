@@ -48,9 +48,16 @@ For assistance, contact:
 📧 naseemahmad6504@gmail.com </p>
 
  <h2 className= "about">Mini Project:</h2>
+ <ul>
+   <li className="hide-me"> <a href="https://locationfinder.somee.com/">Location Finder </a>  👈 Click Here</li>
+   </ul>
+   
  <p className="product" >Mini projects demonstrating diverse architectures, languages, design patterns, and database approaches.
 Each project uses a unique deployment method.</p>
 Tap the “?” on any page for project details.
+
+   
+
 
      
   <br />
