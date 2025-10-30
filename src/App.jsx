@@ -12,9 +12,14 @@ export default function App() {
 
   return (
 <>
+
+    <header>
+     
+    </header>
   <div className="container">
-    <VisitorCounter />
+
     <div className="card">
+    <VisitorCounter />  
     <img src={NA} className="profile" alt="#" />
     <h2><strong>Naseem Ahmad</strong></h2>
     <p className="desgination">Full Stack Developer</p>

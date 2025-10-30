@@ -14,8 +14,22 @@ export default function VisitorCounter() {
   }, []);
 
   return (
-    <div style={{ textAlign: "center", marginTop: "20px", color: "#555" }}>
-      👀 {count !== null ? `${count} visitors` : "Loading..."}
+    <div
+
+    >
+      {count !== null ? (
+        <>
+          <span role="img" aria-label="earth" style={{ fontSize: "1.8rem" }}>
+            🌍
+          </span>{" "}
+          <strong style={{ color: "#0070f3" }}>
+            {count.toLocaleString()}
+          </strong>{" "}
+          visitors have visited from around the world ✨
+        </>
+      ) : (
+        "🌍 Counting visitors around the world..."
+      )}
     </div>
   );
 }
