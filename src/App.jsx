@@ -4,6 +4,7 @@ import NA from './assets/NA.jpg'
 import travel from './assets/Mytravel.png'
 import ProjectInfoHelp from './ProjectInfoHelp.jsx'
 import ChatWidget from './ChatWidget.jsx'
+import VisitorCounter from './VisitorCounter.jsx'
 
 export default function App() {
 
@@ -12,6 +13,7 @@ export default function App() {
   return (
 <>
   <div className="container">
+    <VisitorCounter />
     <div className="card">
     <img src={NA} className="profile" alt="#" />
     <h2><strong>Naseem Ahmad</strong></h2>
