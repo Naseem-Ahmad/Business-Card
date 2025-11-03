@@ -56,8 +56,9 @@ For assistance, contact:
 
  <h2 className= "about">Mini Project:</h2>
  <ul>
-   <li className="hide-me"> <a href="https://locationfinder.somee.com/">Location Finder </a>  👈 Click Here</li>
-   </ul>
+   <li className="hide-me"> <a href="https://locationfinder.creativetract.com/">Location Finder </a>  👈 Click Here</li>
+   <li className="hide-me"> <a href="https://www.magazine.creativetract.com/">Magazine App </a>  👈 Click Here</li>
+  </ul>
    
  <p className="product" >Mini projects demonstrating diverse architectures, languages, design patterns, and database approaches.
 Each project uses a unique deployment method.</p>
