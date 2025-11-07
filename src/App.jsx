@@ -53,7 +53,7 @@ All listed and unlisted products are under continuous development and integratio
 If you find any product not functioning properly, it may be undergoing production updates.
 For assistance, contact:
 📧 naseemahmad6504@gmail.com </p>
-
+{/*
  <h2 className= "about">Mini Project:</h2>
  <ul>
    <li className="hide-me"> <a href="https://locationfinder.creativetract.com/">Location Finder </a>  👈 Click Here</li>
@@ -64,7 +64,7 @@ For assistance, contact:
 Each project uses a unique deployment method.</p>
 Tap the “?” on any page for project details.
 
-   
+ */  }
 
 
      
@@ -74,7 +74,7 @@ Tap the “?” on any page for project details.
 
   <footer>
   © 2025 All Rights Reserved
-  <ChatWidget/>
+  {/*<ChatWidget/>*/}
   </footer>
 </div>
 <ProjectInfoHelp />
